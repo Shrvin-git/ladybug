@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "work-sans";
+    src: url("../fonts/WorkSans-Medium.ttf")format("truetype");
+}
+
+@font-face {
+    font-family: "work-sans-sanserif";
+    src: url("../fonts/WorkSans-Light.ttf")format("truetype");
+}
+
